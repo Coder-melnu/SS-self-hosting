@@ -94,7 +94,8 @@ def main():
             "papers": "https://api.semanticscholar.org/datasets/v1/release/latest/dataset/papers",
             
             # You can add additional URLs below such as: 
-            # "abstracts": "https://api.semanticscholar.org/datasets/v1/release/latest/dataset/abstracts",
+             "abstracts": "https://api.semanticscholar.org/datasets/v1/release/latest/dataset/abstracts",
+            #"embeddings": "https://api.semanticscholar.org/datasets/v1/release/latest/dataset/embeddings",
             # "tldrs": "https://api.semanticscholar.org/datasets/v1/release/latest/dataset/tldrs",
             #"citations": "https://api.semanticscholar.org/datasets/v1/release/latest/dataset/citations"
         }
